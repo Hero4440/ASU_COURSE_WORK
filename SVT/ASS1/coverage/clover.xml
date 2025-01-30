@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1738171292043" clover="3.2.0">
+  <project timestamp="1738171292043" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="24" coveredelements="24" complexity="0" loc="13" ncloc="13" packages="1" files="2" classes="2"/>
+    <file name="complexCalculations.js" path="/Users/hero4440/Documents/Code/ASU/SVT/ASS1/complexCalculations.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="9" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="simpleCalculations.js" path="/Users/hero4440/Documents/Code/ASU/SVT/ASS1/simpleCalculations.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="12" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
